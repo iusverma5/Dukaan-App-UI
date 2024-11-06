@@ -1,0 +1,9 @@
+/* src/index.css */
+
+/* 1. @import should be at the very top */
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+/* 2. Tailwind directives should come after */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
